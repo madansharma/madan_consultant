@@ -16,11 +16,11 @@ const Footer = () => {
               <div className="bg-gradient-to-r from-blue-600 to-purple-600 p-2 rounded-lg">
                 <Brain className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">AI Catalyst</span>
+              <span className="text-xl font-bold">Madan Consultant</span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Transforming businesses through intelligent AI solutions. 
-              We're your trusted partner in the AI revolution.
+              Bridging Technology, Finance, AI, and Creativity with 30+ years of experience. 
+              Your trusted partner in digital transformation and AI innovation.
             </p>
             <div className="flex space-x-4">
               {[Linkedin, Twitter, Github].map((Social, index) => (

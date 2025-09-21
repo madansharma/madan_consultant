@@ -5,39 +5,39 @@ const Services = () => {
   const services = [
     {
       icon: Brain,
-      title: 'AI Strategy & Consulting',
-      description: 'Develop comprehensive AI strategies aligned with your business objectives. We assess your readiness and create roadmaps for successful AI adoption.',
-      features: ['AI Readiness Assessment', 'Strategic Planning', 'ROI Analysis', 'Technology Selection']
+      title: 'Fintech & Banking Solutions',
+      description: 'Complete fintech ecosystem development including AEPS, API Banking, UPI, BNPL, digital wallets, and AI-powered payment solutions.',
+      features: ['Payment Gateways', 'Digital Wallets', 'API Banking', 'AI Chatbots']
     },
     {
       icon: Database,
-      title: 'Machine Learning Solutions',
-      description: 'Build custom ML models that solve your specific business challenges. From predictive analytics to computer vision and NLP.',
-      features: ['Predictive Modeling', 'Computer Vision', 'Natural Language Processing', 'Recommendation Systems']
+      title: 'Generative AI & Automation',
+      description: 'Advanced AI solutions including prompt engineering, RAG systems, multimodal AI, and intelligent workflow automation.',
+      features: ['Prompt Engineering', 'RAG Systems', 'Agentic Workflows', 'Content Generation']
     },
     {
       icon: Cog,
-      title: 'AI Implementation',
-      description: 'End-to-end implementation of AI solutions with seamless integration into your existing systems and workflows.',
-      features: ['System Integration', 'Model Deployment', 'Performance Optimization', 'Scalability Planning']
+      title: 'AI-Driven UI/UX Design',
+      description: 'Revolutionary user experiences with conversational interfaces, predictive journeys, and adaptive UX powered by AI.',
+      features: ['Conversational UI', 'Predictive UX', 'AI Prototyping', 'Usability Analysis']
     },
     {
       icon: BarChart3,
-      title: 'Data Analytics & Insights',
-      description: 'Transform raw data into actionable insights with advanced analytics and intelligent reporting systems.',
-      features: ['Data Pipeline Design', 'Advanced Analytics', 'Business Intelligence', 'Real-time Dashboards']
+      title: 'Immersive Tech & Media',
+      description: 'Cutting-edge AR/VR experiences, 3D storytelling, and AI-powered immersive content for training and marketing.',
+      features: ['AR/VR Development', '360° Videos', '3D Storytelling', 'AI Video Ads']
     },
     {
       icon: Shield,
-      title: 'AI Governance & Ethics',
-      description: 'Ensure responsible AI deployment with robust governance frameworks, ethical guidelines, and compliance strategies.',
-      features: ['Ethical AI Framework', 'Risk Assessment', 'Compliance Strategy', 'Bias Detection']
+      title: 'Digital Transformation',
+      description: 'Complete digital transformation strategies combining AI, fintech, and immersive technologies for business growth.',
+      features: ['Strategy Consulting', 'Process Automation', 'Digital Innovation', 'Growth Hacking']
     },
     {
       icon: Lightbulb,
-      title: 'Innovation Workshops',
-      description: 'Hands-on workshops to upskill your team and identify new AI opportunities within your organization.',
-      features: ['Team Training', 'Use Case Discovery', 'Proof of Concepts', 'Innovation Sessions']
+      title: 'Research & Marketing',
+      description: 'AI-powered market research, competitive intelligence, SEO optimization, and data-driven marketing strategies.',
+      features: ['Predictive Trends', 'AI-powered SEO', 'Brand Strategy', 'Customer Engagement']
     }
   ];
 

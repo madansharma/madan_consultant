@@ -69,9 +69,9 @@ const Hero = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-20">
             {[
-              { number: '200+', label: 'AI Projects Delivered' },
+              { number: '500+', label: 'Projects Delivered' },
               { number: '95%', label: 'Client Success Rate' },
-              { number: '$50M+', label: 'Value Generated' }
+              { number: '30+', label: 'Years Experience' }
             ].map((stat, index) => (
               <div key={index} className="text-center">
                 <div className="text-4xl md:text-5xl font-bold text-white mb-2">{stat.number}</div>
