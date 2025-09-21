@@ -156,12 +156,3 @@ const About = () => {
 };
 
 export default About;
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-};
-
-export default About;
