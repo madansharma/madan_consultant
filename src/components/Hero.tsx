@@ -46,8 +46,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-12 leading-relaxed max-w-3xl mx-auto">
-            We're the AI consulting experts who turn complex artificial intelligence into competitive advantages. 
-            From strategy to implementation, we make AI work for your business.
+            I am a Creative Technology Consultant and AI Generalist with extensive expertise in Generative AI, Agentic Workflows, and Automation Solutions.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
