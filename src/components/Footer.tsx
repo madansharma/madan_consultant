@@ -101,15 +101,15 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-blue-400 mr-3" />
-                <span className="text-gray-300">hello@aicatalyst.com</span>
+                <span className="text-gray-300">info@madansharmaai.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 text-blue-400 mr-3" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+91 9313208456</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 text-blue-400 mr-3" />
-                <span className="text-gray-300">San Francisco, CA</span>
+                <span className="text-gray-300">New Delhi, India</span>
               </div>
             </div>
           </div>
