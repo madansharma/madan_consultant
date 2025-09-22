@@ -52,8 +52,7 @@ const Portfolio = () => {
             Success <span className="text-blue-600">Stories</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Real results from real clients. Discover how we've helped organizations 
-            transform their operations with intelligent AI solutions.
+            A fintech platform built to empower retailers, distributors, and underserved communities with digital services such as money transfers, bill payments, recharges, and cash management. The solution delivers fast processing, strong security, and seamless user experiences, even in low-connectivity areas. It has scaled to 12,000+ retailers, 1,000+ distributors, and over 11 million customers, creating financial inclusion and new income opportunities for small businesses.
           </p>
         </div>
 
