@@ -7,12 +7,12 @@ const Portfolio = () => {
       title: 'Healthcare AI Diagnostics',
       client: 'Global Healthcare Provider',
       category: 'Computer Vision',
-      description: 'Developed an AI-powered medical imaging system that improved diagnostic accuracy by 40% and reduced analysis time by 60%.',
+      description: 'Developed an AI-powered chatbot streamlined information sharing, allowing Reatlier and Distrubuitor  to access relevant data without clutter and the solution ensured compliance with the organizational hierarchy and confidentiality requirements.
+',
       image: 'https://images.pexels.com/photos/356040/pexels-photo-356040.jpeg',
       results: [
-        '40% improvement in diagnostic accuracy',
-        '60% reduction in analysis time',
-        '$2M annual cost savings'
+        'Productivity increased significantly',
+        
       ],
       icon: Shield
     },
