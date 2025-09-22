@@ -7,12 +7,13 @@ const Portfolio = () => {
       title: 'Healthcare AI Diagnostics',
       client: 'Global Healthcare Provider',
       category: 'Computer Vision',
-      description: 'Developed an AI-powered chatbot streamlined information sharing, allowing Reatlier and Distrubuitor  to access relevant data without clutter and the solution ensured compliance with the organizational hierarchy and confidentiality requirements.
+      description: 'Developed an AI-powered chatbot streamlined information sharing, allowing Reatlier and Distrub to access relevant data without clutter. Productivity increased significantly, and the solution ensured compliance with the organizational hierarchy and confidentiality requirements.
 ',
       image: 'https://images.pexels.com/photos/356040/pexels-photo-356040.jpeg',
       results: [
-        'Productivity increased significantly',
-        
+        '40% improvement in diagnostic accuracy',
+        '60% reduction in analysis time',
+        '$2M annual cost savings'
       ],
       icon: Shield
     },
